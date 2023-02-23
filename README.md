@@ -1,10 +1,11 @@
 ### Hi there 👋 my name is Jack Tomasik
 
-I am a full stack software engineer, and I was previously a paralegal and spent some time as a co-project mamanger for a pet app. I'm comfortable in React.js, Redux.js, Ruby, Ruby on Rails, Express.js, Node.js, JavaScript, PostgreSQL, SQLite3, SQL, MongoDB, Mongoose ODM, ActiveRecord, ActionCable, HTML, CSS, SCSS, jQuery, Jbuilder, and AJAX! Looking to add Python and Typescript to my skillset in the near future.
+I am a full stack software engineer, and I was previously a paralegal and spent some time as a co-project mamanger for a startup build a pet app. I'm skilled at using React, Express, Node, JavaScript, Redux, Ruby on Rails, SQL, PostgreSQL, MongoDB, Mongoose, HTML, CSS/SCSS and Material UI to build cool projects!
+Looking to add Python and Typescript to my skillset in the near future.
 
 You can check out some of my projects here:
 
-<h3>📸 🖼<a href="https://jt-memories.netlify.app/posts">We Sample</a></h3>
+<h3>📸 🖼<a href="https://jt-memories.netlify.app/posts">Memories</a></h3>
 
 Memories is a photo sharing platform, which allows for users to create posts to show a special memory and write about it. Working on building a search feature and a recommended feature based on tags used. This project was built using the MERN stack.
 
