@@ -4,13 +4,14 @@ I am a full stack software engineer, and I was previously a paralegal and spent 
 
 You can check out some of my projects here:
 
+<h3>📸 🖼<a href="https://jt-memories.netlify.app/posts">We Sample</a></h3>
+
+Memories is a photo sharing platform, which allows for users to create posts to show a special memory and write about it. Working on building a search feature and a recommended feature based on tags used. This project was built using the MERN stack.
+
 <h3>🏕 <a href="https://trip-camp.herokuapp.com/#/">Trip Camp</a></h3>
 
 Trip Camp is a full stack clone of the website Hipcamp, used for booking places to stay for vacastiona and other types of trips. Users can view locations, book stays, manage their bookings and view and leave reviews for locations. I built this with Ruby on Rails for the backend and React.js for the frontend.
 
-<h3>🍱 <a href="https://we-sample.herokuapp.com/#/">We Sample</a></h3>
-
-We Sample is a food ordering platform, which allows for both restaurant owners to add their establishments to their profile and create a menu of sample items for customers using the app. As well as for user to view participating restuarants and sample items to add to their orders and leave reviews. This project was built using the MERN stack.
 
 <h3>🌁 <a href="https://j-tomasik.github.io/JS_art_map/">Art Map SF</a></h3>
 
