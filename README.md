@@ -1,16 +1,25 @@
 ### Hi there 👋 my name is Jack Tomasik
 
-I am a full stack software engineer, and I was previously a paralegal and spent some time as a co-project mamanger for a startup build a pet app. I'm skilled at using React, Express, Node, JavaScript, Redux, Ruby on Rails, SQL, PostgreSQL, MongoDB, Mongoose, HTML, CSS/SCSS and Material UI to build cool projects!
+I am a full stack software engineer, and I was previously a paralegal and spent some time as a project mamanger for a startup build a pet care app. I then started teahcing myself the fundamentals of computer science and how to code. To take things to the next level I attended the top full stack software engineering bootcamp App Academy and learned web development. I'm skilled at using React, Express, Node, JavaScript, Redux, Ruby on Rails, SQL, PostgreSQL, MongoDB, Mongoose, HTML, CSS/SCSS and Material UI to build cool projects!
+
 Looking to add Python and Typescript to my skillset in the near future.
 
 You can check out some of my projects here:
+
+The titles are links to the lvie sites and the code for the projects lives in my repos!
+
+### Keep in touch with me here!
+  * <a href="mailto:jackedwardtomasik@gmail.com">Click here for my email</a>
+  * <a href="https://www.linkedin.com/in/jack-tomasik-530ab816b/">LinkedIn</a>
+  * <a href="https://angel.co/u/jack-tomasik">AngelList</a>
+
 
 <h3>📸🖼<a href="https://jt-memories.netlify.app/posts">Memories</a></h3>
 
 Memories is a photo sharing platform, which allows for users to create posts to show a special memory and write about it. I also built a search feature for querying
 a post by name or by tags. When you visit an indivudual post's page there is a recommended feature at the bottom of the page based on tags used to find more posts with athe posts image displayed as a link to that posts page. This project was built using the MERN stack, Material UI components on the frontend and functional React compoents using hooks and Redux for state management.
 
-<h3>💪🏋️‍♂️<a href="https://jtomasik-gym.netlify.app/"></a>Gym Workout App</h3>
+<h3>💪🏋️‍♂️<a href="https://jtomasik-gym.netlify.app/">Gym Workout App</a></h3>
 
 My workout app uses two third party APIs I found that will render components with gifs that display how to perform a wide varity of workout exercises. I also
 use queries to display similar exercises based on muscle group selected or type of equipment to recommended additional options. I also utilized an API to fetch
