@@ -2,11 +2,11 @@
 
 I am a full stack software engineer, and I was previously a paralegal and spent some time as a project mamanger for a startup build a pet care app. I then started teahcing myself the fundamentals of computer science and how to code. To take things to the next level I attended the top full stack software engineering bootcamp App Academy and learned web development. I'm skilled at using React, Express, Node, JavaScript, Redux, Ruby on Rails, SQL, PostgreSQL, MongoDB, Mongoose, HTML, CSS/SCSS and Material UI to build cool projects!
 
-Looking to add Python and Typescript to my skillset in the near future.
+Currently working on learning Python and Typescript.
+
+The titles are links to the live sites and the code for the projects lives in my repos!
 
 You can check out some of my projects here:
-
-The titles are links to the lvie sites and the code for the projects lives in my repos!
 
 ### Keep in touch with me here!
   * <a href="mailto:jackedwardtomasik@gmail.com">Click here for my email</a>
