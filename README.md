@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Jack Tomasik
+### Hi there 👋 My name is Jack Tomasik!
 
 I am a **full stack software engineer**, I previously as a project mananger for a startup building a pet care mobile app. 
 
