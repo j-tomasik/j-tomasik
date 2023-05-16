@@ -1,10 +1,20 @@
 ### Hi there 👋 my name is Jack Tomasik
 
-I am a full stack software engineer, and I was previously a paralegal and spent some time as a project mamanger for a startup build a pet care app. I then started teahcing myself the fundamentals of computer science and how to code. To take things to the next level I attended the top full stack software engineering bootcamp App Academy and learned web development. I'm skilled at using React, Express, Node, JavaScript, Redux, Ruby on Rails, SQL, PostgreSQL, MongoDB, Mongoose, HTML, CSS/SCSS and Material UI to build cool projects!
+I am a **full stack software engineer**, I previously as a project mananger for a startup building a pet care mobile app. 
 
-Currently working on learning Python and Typescript.
+After lots of studying and learning the fundamentals of software engineering, I attended the top ranked full-stack software engineering bootcamp **App Academy**. 
 
-The titles are links to the live sites and the code for the projects lives in my repos!
+At App Academy I learned web development and now currently teach as a **Software Eningeer Associate**. I'm skilled at building projects with several different tech stacks.
+
+My most recent project uses a **Python and Django backend**. During the bootcamp I started with building backends using **Ruby on Rails** (such as for my TripCamp project linked below). I then learned how to build backend servers with the **Express framework in the NodeJS** environment for a number of my other projects (such as Memories linked below).
+
+I build my own front ends and have extensive experience with **Javascript and Redux**. More recently I have been working with **Typescript**. I have built front end components using HTML from scratch to style with **CSS** but have recently found a love for building my frontends using **Materil UI** components.
+
+Additionally I have experience using both **relational and non-relational databses**. My projects have utilized **SQL, PostgreSQL and MongoDB**.
+
+Feel free to reach out to me on LinkedIn or my email at the link below if you have questions or would like to chat!!! 
+
+The titles below are links to the live sites for my projects and the code for the them lives in my repos!
 
 You can check out some of my projects here:
 
@@ -13,6 +23,12 @@ You can check out some of my projects here:
   * <a href="https://www.linkedin.com/in/jack-tomasik-530ab816b/">LinkedIn</a>
   * <a href="https://angel.co/u/jack-tomasik">AngelList</a>
 
+<h3>🎵🎛️<a href=""https://django-music-spotify.herokuapp.com/>Spotify Music Controller<a/></h3>
+
+I built this project using Python for the backend with a Django  framework. I used a the Spotify API to have users log into their account to access the currently playing song so that other users can pause, play and skip songs. 
+When creating a room, the host is able to chose the room's settings such as the number of votes needed to skip to the next song of the currently playlist. 
+The host can share the room code with others who are then able to listen to the same song as other members that have currently joined the room!
+-P.S. Make sure you have music playing from your spotify account before you create the room so the API can fetch your 'currently playing song' to display the title and album cover art!
 
 <h3>📸🖼<a href="https://jt-memories.netlify.app/posts">Memories</a></h3>
 
