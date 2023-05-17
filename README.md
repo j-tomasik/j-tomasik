@@ -23,17 +23,17 @@ You can check out some of my projects here:
   * <a href="https://www.linkedin.com/in/jack-tomasik-530ab816b/">LinkedIn</a>
   * <a href="https://angel.co/u/jack-tomasik">AngelList</a>
 
+<h3>📸🖼<a href="https://jt-memories.netlify.app/posts">Memories</a></h3>
+
+Memories is a photo sharing platform, which allows for users to create posts to show a special memory and write about it. I also built a search feature for querying
+a post by name or by tags. When you visit an indivudual post's page there is a recommended feature at the bottom of the page based on tags used to find more posts with athe posts image displayed as a link to that posts page. This project was built using the MERN stack, Material UI components on the frontend and functional React compoents using hooks and Redux for state management.
+
 <h3>🎵🎛️<a href="https://django-music-spotify.herokuapp.com">Spotify Music Controller<a/></h3>
 
 I built this project using Python for the backend with a Django  framework. I used a the Spotify API to have users log into their account to access the currently playing song so that other users can pause, play and skip songs. 
 When creating a room, the host is able to chose the room's settings such as the number of votes needed to skip to the next song of the currently playlist. 
 The host can share the room code with others who are then able to listen to the same song as other members that have currently joined the room!
 -P.S. Make sure you have music playing from your spotify account before you create the room so the API can fetch your 'currently playing song' to display the title and album cover art!
-
-<h3>📸🖼<a href="https://jt-memories.netlify.app/posts">Memories</a></h3>
-
-Memories is a photo sharing platform, which allows for users to create posts to show a special memory and write about it. I also built a search feature for querying
-a post by name or by tags. When you visit an indivudual post's page there is a recommended feature at the bottom of the page based on tags used to find more posts with athe posts image displayed as a link to that posts page. This project was built using the MERN stack, Material UI components on the frontend and functional React compoents using hooks and Redux for state management.
 
 <h3>💪🏋️‍♂️<a href="https://jtomasik-gym.netlify.app/">Gym Workout App</a></h3>
 
