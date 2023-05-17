@@ -23,7 +23,7 @@ You can check out some of my projects here:
   * <a href="https://www.linkedin.com/in/jack-tomasik-530ab816b/">LinkedIn</a>
   * <a href="https://angel.co/u/jack-tomasik">AngelList</a>
 
-<h3>🎵🎛️<a href=""https://django-music-spotify.herokuapp.com/>Spotify Music Controller<a/></h3>
+<h3>🎵🎛️<a href="https://django-music-spotify.herokuapp.com">Spotify Music Controller<a/></h3>
 
 I built this project using Python for the backend with a Django  framework. I used a the Spotify API to have users log into their account to access the currently playing song so that other users can pause, play and skip songs. 
 When creating a room, the host is able to chose the room's settings such as the number of votes needed to skip to the next song of the currently playlist. 
