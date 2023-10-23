@@ -4,11 +4,15 @@ I am a **full stack software engineer**, I previously as a project mananger for 
 
 After lots of studying and learning the fundamentals of software engineering, I attended the top ranked full-stack software engineering bootcamp **App Academy**. 
 
-At App Academy I learned web development and now currently teach as a **Software Eningeer Associate**. I'm skilled at building projects with several different tech stacks.
+At App Academy I learned full stack web development and have been teaching students as a **Software Eningeer Associate**. App Academy has given me the skills to learn and building projects with several different tech stacks, as well as the deeper understanding and techncial ability to teach and explain concepts to other graduates.
+
+In my free time I have also been working as a **software engineer** on a healthcare SaaS product for a company that I co-founded called **RecordOp**. We have been building out an API for integrating diffrent EHRs together for doctors to easily access patient data. 
+
+Me and the team have also been working on automations for alerting doctors when their patients lab and test results are have passed a certain thershold and are concerning enough to require immediate attention and action. Our tech stach has been **Next.js** with **Typescript** and some additional **Express.js** server functionality.
 
 My most recent project uses a **Python and Django backend**. During the bootcamp I started with building backends using **Ruby on Rails** (such as for my TripCamp project linked below). I then learned how to build backend servers with the **Express framework in the NodeJS** environment for a number of my other projects (such as Memories linked below).
 
-I build my own front ends and have extensive experience with **Javascript and Redux**. More recently I have been working with **Typescript**. I have built front end components using HTML from scratch to style with **CSS** but have recently found a love for building my frontends using **Materil UI** components.
+I build my own front ends and have extensive experience with **Javascript and Redux**. More recently I have been working with **Typescript**. I have built front end components using HTML from scratch to style with **Tailwind** as well as vanilla **CSS** but have recently found a love for building my frontends using **Materil UI** components.
 
 Additionally I have experience using both **relational and non-relational databses**. My projects have utilized **SQL, PostgreSQL and MongoDB**.
 
