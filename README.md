@@ -1,17 +1,13 @@
-### Hi there 👋 My name is Jack Tomasik!
+## Hi there 👋 My name is Jack Tomasik!
 
-I am a **full stack software engineer**, living in the San Francisco Bay Area.
+I am a **Full Stack Software Engineer**, living in the San Francisco Bay Area.
 
-## My Story
+### My Story
 I began learning about software engineering as a project mananger at Braidio working on a pet care mobile app. 
 
-When the lockdowns began in March 2020 I picked up front end web development as a hobby. After lots of studying online and learning the fundamentals of software engineering, I enrolled in and completed the top ranked full-stack software engineering bootcamp **App Academy**. 
+When the lockdowns began in March 2020 I picked up front end web development as a hobby. After lots of studying online and learning the fundamentals of software engineering, I enrolled in and completed the top ranked full-stack software engineering bootcamp **App Academy**. At App Academy I learned full stack web development and after graduating have been teaching students as a **Software Eningeer Associate**. App Academy has given me the skills to learn anything I want and the tools for building projects with several different tech stacks, as well as the deeper understanding and techncial ability to teach and explain concepts to other graduates.
 
-At App Academy I learned full stack web development and after graduating have been teaching students as a **Software Eningeer Associate**. App Academy has given me the skills to learn anything I want and the tools for building projects with several different tech stacks, as well as the deeper understanding and techncial ability to teach and explain concepts to other graduates.
-
-In my free time I have also been working as a **software engineer** on a healthcare SaaS product for a company that I co-founded called **RecordOp**. We have been building out an API for integrating diffrent EHRs together for doctors to easily access patient data. 
-
-Me and the team have also been working on automations for alerting doctors when their patients lab and test results are have passed a certain thershold and are concerning enough to require immediate attention and action. Our tech stach has been **Next.js** with **Typescript** and some additional **Express.js** server functionality.
+In my free time I have also been working as a **software engineer** on a healthcare SaaS product for a company that I co-founded called **RecordOp**. We have been building out an API for integrating diffrent EHRs together for doctors to easily access patient data. Me and the team have also been working on automations for alerting doctors when their patients lab and test results are have passed a certain thershold and are concerning enough to require immediate attention and action. Our tech stach has been **Next.js** with **Typescript** and some additional **Express.js** server functionality.
 
 My most recent solo project was built with **Python and Django backend** which I really enjoy working with. During the bootcamp I started with building backends using **Ruby on Rails** (such as for my TripCamp project linked below). I then learned how to build backend servers with the **Express framework in the NodeJS** environment for a number of my other projects (such as Memories linked below).
 
@@ -21,14 +17,12 @@ Additionally I have experience using both **relational and non-relational databs
 
 Feel free to reach out to me on LinkedIn or my email at the link below if you have questions or would like to chat!!! 
 
-The titles below are links to the live sites for my projects and the code for the them lives in my repos!
-
-You can check out some of my projects here:
-
-### Keep in touch with me here!
   * <a href="mailto:jackedwardtomasik@gmail.com">Click here for my email</a>
   * <a href="https://www.linkedin.com/in/jack-tomasik-530ab816b/">LinkedIn</a>
-  * <a href="https://angel.co/u/jack-tomasik">AngelList</a>
+
+The titles below are links to the live sites for my projects and the code for the them lives in my repos!
+
+### You can check out some of my projects here:
 
 <h3>📸🖼<a href="https://jt-memories.netlify.app/posts">Memories</a></h3>
 
