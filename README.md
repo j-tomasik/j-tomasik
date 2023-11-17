@@ -19,6 +19,8 @@ Feel free to reach out to me on LinkedIn or my email at the link below if you ha
 
   * <a href="mailto:jackedwardtomasik@gmail.com">Click here for my email</a>
   * <a href="https://www.linkedin.com/in/jack-tomasik-530ab816b/" target="_blank">LinkedIn</a>
+  * <a href="https://portfolio-j-tomasik.vercel.app/" target="_blank">Portfolio Site!</a>
+  
 
 The titles below are links to the live sites for my projects and the code for the them lives in my repos!
 
